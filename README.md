@@ -2,7 +2,7 @@
 
 Encoding and decoding code accompanying the paper.
 
-Raw sequencing data are deposited in the NCBI Sequence Read Archive under BioProject [**PRJNA1522504**](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1522504) (13 runs).
+Raw sequencing data are deposited in the NCBI Sequence Read Archive under BioProject [**PRJNA1522504**](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1522504) (15 runs).
 
 ---
 
